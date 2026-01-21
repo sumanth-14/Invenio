@@ -3,7 +3,7 @@
 
 Invenio is a powerful, full-stack automated job scraping and tracking application designed to help you find invisible opportunities. It intelligently monitors career pages of your target companies (Adobe, Netflix, Google, etc.) and notifies you strictly when *new* roles appear.
 
-Unlike generic scrapers, Invenio features an **Smart ATS Detection Engine** that automatically adapts its scraping strategy for complex platforms like **Workday**, **Greenhouse**, and **Lever**, as well as custom React-based career sites.
+Unlike generic scrapers, Invenio features an **Smart Platform Detection Engine** that automatically adapts its scraping strategy for complex platforms like **Workday**, **Greenhouse**, and **Lever**, as well as custom React-based career sites.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Stack](https://img.shields.io/badge/stack-MERN-green.svg)
